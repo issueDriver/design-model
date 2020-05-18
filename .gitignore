@@ -7,12 +7,3 @@
 *.iml
 out
 gen
-.idea/.gitignore
-.idea/compiler.xml
-.idea/design-mode.iml
-.idea/inspectionProfiles/
-.idea/misc.xml
-design-mode.iml
-pom.xml
-src/
-target/
