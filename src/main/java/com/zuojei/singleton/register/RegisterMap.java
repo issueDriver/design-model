@@ -1,7 +1,7 @@
 package com.zuojei.singleton.register;
 
 
-import java.io.Serializable;
+
 import java.util.HashMap;
 import java.util.Map;
 

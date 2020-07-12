@@ -1,6 +1,5 @@
 package com.zuojei.singleton.serialization;
 
-import com.zuojei.singleton.serialization.Seriable;
 
 import java.io.*;
 
